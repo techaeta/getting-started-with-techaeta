@@ -44,7 +44,7 @@ There is great information in [**how to submit a contribution**](https://opensou
 
 The internet is littered with guides and information on how to use and understand git. However, here's a compact guide that follows our suggested workflow.
 
-![Github Flow](https://raw.githubusercontent.com/ibm-garage-tsa/getting-started-with-tsa/main/github_flow.png)
+![Github Flow](https://raw.githubusercontent.com/techaeta/getting-started-with-techaeta/master/github_flow.png)
 
 1. Fork the desired repository in GitHub.
 
